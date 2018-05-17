@@ -16,7 +16,7 @@
 
 <img src="images/photoferroics-small.png" alt="caTiO3" style="width: 450px;"/>
 
-Ener. Enviro. Sci. 2015 / Appl. Phys. Lett. 2016 / Chem. Mater. 2017
+###### Ener. Enviro. Sci. 2015 / Appl. Phys. Lett. 2016 / Chem. Mater. 2017
 
 * How does ferroelectricity affect surfaces and interfaces?
 	* Charge separation in PV
