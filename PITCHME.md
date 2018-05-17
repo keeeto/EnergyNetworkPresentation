@@ -16,6 +16,8 @@
 
 <img src="images/photoferroics-small.png" alt="caTiO3" style="width: 450px;"/>
 
+Ener. Enviro. Sci. 2015 / Appl. Phys. Lett. 2016 / Chem. Mater. 2017
+
 * How does ferroelectricity affect surfaces and interfaces?
 	* Charge separation in PV
 	* Spatially selective activity in catalysts
@@ -27,6 +29,8 @@
 
 <img src="images/vibrations-Mode057.gif" alt="caTiO3" style="width: 250px;"/>
 
+Nano. Lett. 2014 / Chem. Comm. 2015 / PRB 2016 / Angew. Chem. 2018
+
 * How can we design with disorder?
 	* Understand entropy
 	* Thermal transport and disorder
@@ -37,6 +41,8 @@
 * High throughput exploration of materials space
 
 <img src="images/AI.png" alt="caTiO3" style="width: 450px;"/>
+
+Chem 2016 / Chem. Sci. 2017 / Faraday Diss. 2018 / Nature 2018
 
 * How can we improve characterisation and understanding with AI?
 	* Understand complex phase transitions
