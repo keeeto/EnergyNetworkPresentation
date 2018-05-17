@@ -12,10 +12,9 @@
 ---
 ### Ferroelectric photovoltaics and photocatalysts 
 
-<img src="images/photoferroics-small.png" alt="caTiO3" style="width: 250px;"/>
-
 * How ferroelctricity enhances performance
 
+<img src="images/photoferroics-small.png" alt="caTiO3" style="width: 450px;"/>
 
 * How does ferroelectricity affect surfaces and interfaces?
 	* Charge separation in PV
@@ -37,7 +36,7 @@
 
 * High throughput exploration of materials space
 
-<img src="images/AI.png" alt="caTiO3" style="width: 250px;"/>
+<img src="images/AI.png" alt="caTiO3" style="width: 450px;"/>
 
 * How can we improve characterisation and understanding with AI?
 	* Understand complex phase transitions
