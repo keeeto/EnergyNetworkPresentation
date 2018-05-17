@@ -1,7 +1,9 @@
 ### Keith T. Butler
 ###### Atomistic modelling for characterisation and design of energy materials
 
-/@fa[address-card]R3 G36/@fa[phone-square]5334/
+/@fa[address-card]R3 G36/@fa[phone]5334/
+
+----
 
  / @fa[twitter-square] @keeeto2000 /
 @fa[github-square] keeeto /
@@ -10,7 +12,7 @@
 ---
 ### Ferroelectric photovoltaics and photocatalysts 
 
-<img src="images/photoferroics-small.jpg" alt="caTiO3" style="width: 250px;"/>
+<img src="images/photoferroics-small.png" alt="caTiO3" style="width: 250px;"/>
 
 * How ferroelctricity enhances performance
 
@@ -24,7 +26,7 @@
 
 * Interplay of dynamics, disorder and phase transitions
 
-<img src="images/photoferroics-small.jpg" alt="caTiO3" style="width: 250px;"/>
+<img src="images/vibrations-Mode057.gif" alt="caTiO3" style="width: 250px;"/>
 
 * How can we design with disorder?
 	* Understand entropy
@@ -35,7 +37,7 @@
 
 * High throughput exploration of materials space
 
-<img src="images/photoferroics-small.jpg" alt="caTiO3" style="width: 250px;"/>
+<img src="images/AI.png" alt="caTiO3" style="width: 250px;"/>
 
 * How can we improve characterisation and understanding with AI?
 	* Understand complex phase transitions
